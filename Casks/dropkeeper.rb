@@ -1,6 +1,6 @@
 cask "dropkeeper" do
-  version "1.0.0"
-  sha256 "d5fa01a031a9c6190d7eb70251c7f77673d78e350f0ba840cc4dfbbd2ab4d5b8"
+  version "1.0.1"
+  sha256 "e83d37e6029b5608eacda7def67cf68f11c52bed851795c328532bcfd70d8ed2"
 
   url "https://github.com/direcat/dropkeeper/releases/download/v#{version}/DropKeeper-#{version}.zip"
   name "DropKeeper"
